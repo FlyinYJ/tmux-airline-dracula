@@ -9,7 +9,7 @@ A tmux theme for Dracula color scheme.
 1. Install using tpm.
 
     ```tmux
-    set -g @plugin 'sei40kr/tmux-airline-dracula'
+    set -g @plugin 'FlyinYJ/tmux-airline-dracula'
     ```
 
 ## Manual Installation
